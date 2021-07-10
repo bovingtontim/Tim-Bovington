@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+### The Curious Case of NBIM Investing and Divesting in an Australian Microcap.
 
-You can use the [editor on GitHub](https://github.com/bovingtontim/bovingtontim.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+One of, in my opinion, the most amazing online documents is held on Norways soverign wealth funds website. It has over 20 years of the funds investments available to be searched easily, denominated in both Kroner and USD. Norways sovereign wealth fund is the largest in the world and the bredth and depth of their investments is well worth a browse.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Norweigan Soverign wealth fund invests in Equities all around the world. In Australia it uses Citicorp and J.P Morgan as nominees, this is why you don't often see Norges Bank Investment Management (NBIM), the investment manager of the soveriegn wealth fund, appear on many of the ASX listed companies top 20 holdings in their annual reports. They do have massive stakes though, from a 1.4 billion USD interest in CSL Ltd representing a 1.4% ownership stake, a larger stake than even the Australian government owns of the once public asset, to a 26 million USD interest in department store chain Myer Holdings LTD, a 1.68% ownership stake.
 
-### Markdown
+An Australian equity that I have followed for many years now, Genex Power LTD (GNX), appears on the database for year ends 2017, 2018, 2019 but not for 2016 and 2020. They built a stake in the business and then sold it. This isn't particularly interesting, except for the the fact that GNX at the time had a market cap ranging from  35-75 million USD, very much a microcap. During this time GNX owned a single 50MW solar farm in Outback North Queensland, and was trying to establish funding for its cornerstone project a pumped hydro power station. This speaks to how far NBIM is willing to travel to find investment opportunities and the diversity of investment holdings.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+NBIM also records and makes public their voting instructions for shareholder meetings that it participates in. In its ownership history, NBIM voted in the 3 general meetings for GNX, 2 Annual General Meetings, and one special meeting before liquiditating its holding. Across those meetings NBIM voted for 17 of 21 of GNX's managments proposals and against 4. In its last general meeting it voted against 3/4 management proposals, including voting against the relection of two directors.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bovingtontim/bovingtontim.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Some Norweigan investment analyst has researched and vouched for this company to be approved for a 1 million USD, 1.6% stake, the investment was approved by the investment board, and after a couple of year of underperformance, the fund made clear its grievence in its final AGM and liquidated its holdings. I find the idea that the fund is actively managing assets which are 1/1,400,000 of the funds AUM and the idea that it is doing this for over 9,000 equities really quite awesome. It supports the idea that NBIM is working in the best interests of the Norweigian people. GNX has made some impressive steps recently to become a more diversifed renewable energy generator and I will ensure to keep following whether NBIM reinvests in GNX and will take that as a strong vote confidence in the companies future.
