@@ -1,3 +1,17 @@
+### Why Callide C's Failure is an important signal for Australia's National Energy Market
+
+Today, energy grids across the world are trying to de-carbonise. This isn't purely out of the goodness of energy generators, politicians and public servants hearts. But due the levelised cost of energy from renewable sources now matching or under pricing the cost of even legacy carbon intensive generation. This shift has in combination with strong consumer and business demand for renewable energy meant that the vast majority of new generation projects built by both number and capacity are renewable projects.
+
+In line with this reduction in cost of renewable energy generation price but more recently biased the price of energy storage, namely batteries has also decreased. Batteries have not seen the levels of consumer and market penetration as renewable deployments. The delta between these two can be explained to some extent by the respective maturities of these technologies however that does not explain the entire difference.
+
+Currently the National Energy Market (NEM) is in a unique place. The majority of Electricity generation comes from coal fired power stations with an average age of >20 years and with an average expected life span of an additional 15 years going forward. A large amount of largely price inelastic residential and large scale solar has been deployed in the past 15-20 years leading to some of the cheapest relative average electricity prices the country has ever seen. But also a relatively severe duck curve.
+
+During daylight hours in high radiation days the marginal price of electricity can sometimes fall below zero, leading to large scale curbing of generation assets across the country, this means that large amounts of energy are effectively wasted, before the sun sets and their are substantial price increases in the evening.
+
+Although the difference between these two prices provides a battery some opportunity to arbitrage, this opportunity is curbed by legacy coal fired power stations increasing generation during the two sides of the duck curve, to maximize their revenue. Prospective battery developers have to fund projects with some forecasted view of how power prices will look in the near future when coal fired power stations close. These forecasts are not generally sufficient in order to secure the required financing, as currently batteries in the NEM make the majority of their revenue via ancillary services, like frequency modulation, rather than true arbitrage revenue, and these services are not seen as being scalable.
+
+The failure of Callide C in Queensland provides a window in to a near future of the NEM. Prospective battery, and renewable developers, will be pleased to see the general price levels increase in the wake of its issues, and the value of their prospective arbitrage opportunities have increased. This is after the closure of just one-third of a single Coal Fired Power Station. There are lots more that will need to close down in the not too distant future.
+
 ### The Curious Case of NBIM Investing and Divesting in an Australian Microcap.
 
 One of, in my opinion, the most amazing online documents is held on Norways soverign wealth funds website. It has over 20 years of the funds investments available to be searched easily, denominated in both Kroner and USD. Norways sovereign wealth fund is the largest in the world and the bredth and depth of their investments is well worth a browse.
