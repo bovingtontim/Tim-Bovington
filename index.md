@@ -1,7 +1,7 @@
 ### Possible ways Tether has maintained its Peg
 1/08/21
 
-Over the past couple of months post the NYDA's investigation, there has been increasing public scrutiny of the stablecoin Tether. Tether is one of the most actively traded cryptocurrencies in existence, often in the top 3 daily active traded cryptocurrencies alongside BTC and ETH. Tether is privately owned and managed. Stablecoins are intended to maintain a fixed or at least "stable" pricing relationship with another currency or asset. 
+Over the past couple of months post the NYAG's investigation, there has been increasing public scrutiny of the stablecoin Tether. Tether is one of the most actively traded cryptocurrencies in existence, often in the top 3 daily active traded cryptocurrencies alongside BTC and ETH. Tether is privately owned and managed. Stablecoins are intended to maintain a fixed or at least "stable" pricing relationship with another currency or asset. 
 
 There are currently questions about the legitamacy of the executives that run Tether. This post does not seek to investigate these accusations but instead present theoretically how Tether has managed to maintain its goal peg to the US dollar. The following is based purely on assumption and should not be considered fact.
 
@@ -15,7 +15,7 @@ Now the conjecture is that it is relatively difficult to redeem Tethers, you hav
 
 Lets assume for this blog that it is effectively impossible to redeem Tethers from Tether itself. This means the simplest mechanism for arbitraging Tethers that are trading below the peg does not exist. Then how would Tether manage to maintain the Peg?
 
-This is where we have to make some assumptions that are difficult to really confirm. Tether has received some amount of dollars for the Tethers it has printed. According to its report of assets provided to the NYDA these are not held as dollars entirely but as other assets, predominately commercial paper, but also including other cryptocurrencies. If Tether wanted to use its reserves to support its peg, and reduce the demand for redemptions than we could assume that a portion of that commercial paper is used to buy reserve cryptocurrencies that can be sold on market to prop up the market price of Tether.
+This is where we have to make some assumptions that are difficult to really confirm. Tether has received some amount of dollars for the Tethers it has printed. According to its report of assets provided to the NYAG these are not held as dollars entirely but as other assets, predominately commercial paper, but also including other cryptocurrencies. If Tether wanted to use its reserves to support its peg, and reduce the demand for redemptions than we could assume that a portion of that commercial paper is used to buy reserve cryptocurrencies that can be sold on market to prop up the market price of Tether.
 
 Lets explore this last assumption, these entities could purchase Tethers on market using their reserve cryptocurrency assets, funded by loans from Tether, to stablise the price of tethers when their is limited organic demand for them. These entities could then sell these Tethers purchased during periods of limited demand and sell them during times of increased demand for Tether.
 
