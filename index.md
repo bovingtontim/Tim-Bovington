@@ -1,3 +1,26 @@
+### Possible ways Tether has maintained its Peg
+1/08/21
+
+Over the past couple months post the NYDA's investigation, there has been increasing public scrutiny of the Stablecoin Tether. Thether is one of the most actively traded cryptocurrencies in existence, often in the top 3 daily active traded cryptocurrencies alongside BTC and ETH. Tether is privately owner and managed. Stablecoins are inteded to maintain a fixe4d or at least "stable" pricing relationship with another currency or asset. 
+
+There are currently questions about the legitamacy of the executives that run Tether. This post does not seek to investigate these acqusations but instead present theoretically how Tether has managed to maintain its goal peg to the US dollar. The following is based purely on assumption and should not be considered facts.
+
+In general if a pegged currency and for the purposes of this post, a cryptocurrency, trades above the underlying asset, there is an incentive for the general public to purchase the cryptocurrency directly from the managers of the cryptocurrency at the pegged rate and sell it on market to make the "risk-free" arbirtrage profit. For example if there are buy orders on Binance, or some other Tether supporting exchange, for let us say $1.10 USD, then there is an incentive to buy new Tethers from Tether directly and sell them into that buy order, there by reducing the price of Tethers on the market and making yourself a $1.10 - $1 = $0.1 USD per Tether profit. 
+
+That is relatively simple but what abou tidf there are sellorders for Tethers for less than $1 USD, we could say that Tethers are trading below the pegged price. In this instance the expected arbitrage mechanism is for a buyer to buy the Tether which is being sold let's say for $0.9c and then "sell" or "redeem" them to Tether for the pegged rate of $1 USD to make a "risk-free" arbitrage profit of again $0.1 USD minus any fees relating to the redemption.
+
+This is relatively simple, thjere are more complicated examples due to Tether being traded against other cryptocurrencies, who are then also traded against USD. These can provide other arbitrage opportunities.
+
+Now the conjecture is that is relatively difficult to redeem Tethers, you have to be a trusted partner and the market capitalisation has only really grown over the past 5 years suggesting that redemptions are rare and relatively small compared to new issuance. This is not really surprising as you can transfer tethers into dollars on a Tether supporting exchange, instead of having to create a new relationship with Tether.
+
+Lets assume for this blog that it is effectively impossible to redeem Tethers from Tether itself. This means the simplest mechanism for arbitraging Tethers that are trading below the peg does not exist. Then how would Tether manage to maintain the Peg?
+
+This is where we have to make some assumptions that are difficult to really confirm. Tether has received some amount of dollars for the Tethers it has printed. According to its report of assets these are not held as dollars entirely but as other assets, predominately commercial paper, but also including other cryptocurrencies. If Tether wanted to use its reserves to support its peg, and reduce the demand for redemptions than we could assume that a portion of that commercial paper is used to buy reserve cryptocurrencies that can be sold on market to prop up the market price of Tether.
+
+Lets explore this last assumption, these entities could purchase Tethers on market using their reserve cryptocurrency assets, funded by loans from Tether, to stablise the price of tethers when their is limited organic demand for them. These entities could then sell these Tethers purchased during periods of limited demand and sell them during times of increased demand for Tether.
+
+As of today (1/8/2021) there are 61.81 Billions Tethers in circulation. Tether themselves have confirmed that these assets are not backed one for one by USDs but it is unkown how much reserves it and its affiliate entities have to maintain the peg in the event of an extended sell off.
+
 ### Why Callide C's Failure is an important signal for Australia's National Energy Market
 
 Today, energy grids across the world are trying to de-carbonise. This isn't purely out of the goodness of energy generators, politicians and public servants hearts. But due the levelised cost of energy from renewable sources now matching or under pricing the cost of even legacy carbon intensive generation. This shift has in combination with strong consumer and business demand for renewable energy meant that the vast majority of new generation projects built by both number and capacity are renewable projects.
