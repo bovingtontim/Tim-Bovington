@@ -1,7 +1,7 @@
 ### Possible ways Tether has maintained its Peg
 1/08/21
 
-Over the past couple of months post the NYDA's investigation, there has been increasing public scrutiny of the stablecoin Tether. Tether is one of the most actively traded cryptocurrencies in existence, often in the top 3 daily active traded cryptocurrencies alongside BTC and ETH. Tether is privately owned and managed. Stablecoins are inteded to maintain a fixed or at least "stable" pricing relationship with another currency or asset. 
+Over the past couple of months post the NYDA's investigation, there has been increasing public scrutiny of the stablecoin Tether. Tether is one of the most actively traded cryptocurrencies in existence, often in the top 3 daily active traded cryptocurrencies alongside BTC and ETH. Tether is privately owned and managed. Stablecoins are intended to maintain a fixed or at least "stable" pricing relationship with another currency or asset. 
 
 There are currently questions about the legitamacy of the executives that run Tether. This post does not seek to investigate these accusations but instead present theoretically how Tether has managed to maintain its goal peg to the US dollar. The following is based purely on assumption and should not be considered fact.
 
