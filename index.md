@@ -19,7 +19,7 @@ This is where we have to make some assumptions that are difficult to really conf
 
 Lets explore this last assumption, these entities could purchase Tethers on market using their reserve cryptocurrency assets, funded by loans from Tether, to stablise the price of tethers when their is limited organic demand for them. These entities could then sell these Tethers purchased during periods of limited demand and sell them during times of increased demand for Tether.
 
-As of today (1/8/2021) there are 61.81 Billions Tethers in circulation. Tether themselves have confirmed that these assets are not backed one for one by USDs but it is unkown how much reserves it and its affiliate entities have to maintain the peg in the event of an extended sell off.
+As of today (1/8/2021) there are 61.81 billions Tethers in circulation. Tether themselves have confirmed that these assets are not backed one for one by USD but it is unkown how much reserves it and its affiliate entities have to maintain the peg in the event of an extended sell off.
 
 ### Why Callide C's Failure is an important signal for Australia's National Energy Market
 
