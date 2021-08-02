@@ -1,3 +1,78 @@
+### Why is Tether Important?
+
+In the instance that for every dollar recieved a Tether has been printed, Tether is not particularly important other than for its status as the first and largest stablecoin.
+
+If however that relationship was, or is, decoupled and some significant percentage of Tethers were printed without backing then Tether is very important.
+
+Let us explore.
+
+Let us define a simlpe model with three trading pairs.
+
+1. USD - USDT
+2. USDT - BTC
+3. BTC - USD
+
+Furthermore suppose the peg holds and 1 USDT = 1 USD on the market. Also 4 USD purchase 1 BTC, therefore 4 USDT can purchase 1 BTC. Again let us assume there is a single exchange designated as the market.
+
+Let us assume there is a Tether tresury where USDT can be purchased off market. Let X define the cost in USD to buy 1 USDT from the Tether Tresury.
+
+Suppose X = 1 for Person A.  Person A purchases 1 USDT from the Tresury for 1 USD. Person A the enters the market with 1 USD. As specified above the peg holds and they are able to exchange 1 USDT back for 1 USD. They are also able to exchange their USDT for 0.25 BTC or if they traded their 1 USDT for 1 USD they could also trade that 1 USD for 0.25 BTC.
+
+Table 1 - Possible outputs when X = 1
+
+| Inputs | Possible Outputs |
+|--------|------------------|
+| 1 USD  | 1. 1 USDT        |
+|        | 2. 1 USD         |
+|        | 3. 0.25 BTC      |
+
+Let us know suppose X = 0.1. In this instance person B is able to purchase 10 Tethers for 1 USD. They can then go the market and purchase 10 USD for their 10 USDT. Or they can exchange their 10 USDT for 0.25 * 10 = 2.5 BTC.
+
+Where X = 0.1 the possible inputs for a 1 USD input are.
+
+Table 2 - Possible outputs when X = 0.1
+
+| Inputs | Possible Outputs |
+|--------|------------------|
+| 1 USD  | 1. 10 USDT       |
+|        | 2. 10 USD        |
+|        | 3. 2.5 BTC       |
+
+Let us complicate our model slightly and introduce pricing depth for market 2. USDT - BTC.
+
+Table 3 - BTC to USDT - Example Market Depth
+
+| BID            | OFFER          |
+|----------------|----------------|
+| Volume / Price | Price / Volume |
+| 1 / 3          | 4 / 1          |
+| 1 / 2          | 5 / 1          |
+| 1 / 4          | 6 / 1          |
+
+Now let us go back back to person A who is able to purchase 1 USDT from the Tether Tresury where X = 1. Let us talk through the possible outcomes again. Person A purchases their 1 USDT for 1 USD and then enters the market and can again buy 1 USD, or they can purchase 0.25 BTC.
+
+Table 4 - Possible outputs when X = 1 with market depth
+
+| Inputs | Possible Outputs |
+|--------|------------------|
+| 1 USD  | 1. 1 USDT        |
+|        | 2. 1 USD         |
+|        | 3. 0.25 BTC      |
+
+Assume X is still equal to 0.1 for Person B and let us review their possible outcomes with the newly added pricing depth to market 2. Person B buys 10 Tethers for 1 USD. They go to the market and they are able to purchase 10 USD, or 1 BTC @ 4 USDT, 1 BTC @ 5 USDT and 0.17 BTC @ 6 USDT.
+
+Table 5 - Possible outputs when X = 0.1 with market depth
+
+| Inputs | Possible Outputs |
+|--------|------------------|
+| 1 USD  | 1. 10 USDT       |
+|        | 2. 10 USD        |
+|        | 3. 2.17 BTC      |
+
+Person B in Scenario 2 cannot purchase as many BTC, as they could in Scenario 1 when they could purchase infinity BTC at 0.25 BTC/USDT 
+
+Scenario 2 displays the implications in pricing of BTC when there is an ability to acquire USDT for less than 1 USD.
+
 ### Possible ways Tether has maintained its Peg
 1/08/21
 
