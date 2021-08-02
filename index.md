@@ -2,7 +2,7 @@
 
 In the instance that for every dollar recieved a Tether has been printed, Tether is not particularly important other than for its status as the first and largest stablecoin.
 
-If however that relationship was, or is, decoupled and some significant percentage of Tethers were printed without backing then Tether is very important.
+If however that relationship was, or is, decoupled and some significant percentage of Tethers were printed with less than 1 USD backing then Tether is very important.
 
 Let us explore.
 
