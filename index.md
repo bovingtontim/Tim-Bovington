@@ -6,7 +6,7 @@ If however that relationship was, or is, decoupled and some significant percenta
 
 Let us explore.
 
-Let us define a simlpe model with three trading pairs.
+Let us define a simple model with three trading pairs.
 
 1. USD - USDT
 2. USDT - BTC
