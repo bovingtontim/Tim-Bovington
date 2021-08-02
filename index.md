@@ -16,7 +16,7 @@ Furthermore suppose the peg holds and 1 USDT = 1 USD on the market. Also 4 USD p
 
 Let us assume there is a Tether tresury where USDT can be purchased off market. Let X define the cost in USD to buy 1 USDT from the Tether Tresury.
 
-Suppose X = 1 for Person A.  Person A purchases 1 USDT from the Tresury for 1 USD. Person A then enters the market with 1 USD. As specified above the peg holds and they are able to exchange 1 USDT back for 1 USD. They are also able to exchange their USDT for 0.25 BTC or if they traded their 1 USDT for 1 USD they could also trade that 1 USD for 0.25 BTC.
+Suppose X = 1 for Person A.  Person A purchases 1 USDT from the Tresury for 1 USD. Person A then enters the market with 1 USDT. As specified above the peg holds and they are able to exchange 1 USDT back for 1 USD. They are also able to exchange their USDT for 0.25 BTC or if they traded their 1 USDT for 1 USD they could also trade that 1 USD for 0.25 BTC.
 
 Table 1 - Possible outputs when X = 1
 
