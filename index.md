@@ -26,7 +26,7 @@ Table 1 - Possible outputs when X = 1
 |        | 2. 1 USD         |
 |        | 3. 0.25 BTC      |
 
-Let us now suppose X = 0.1. In this instance person B is able to purchase 10 Tethers for 1 USD. They can then go the market and purchase 10 USD for their 10 USDT. Or they can exchange their 10 USDT for 0.25 * 10 = 2.5 BTC.
+Let us now suppose X = 0.1. In this instance person B is able to purchase 10 Tethers for 1 USD from the Tether Tresury. They can then go the market and purchase 10 USD for their 10 USDT. Or they can exchange their 10 USDT for 0.25 * 10 = 2.5 BTC.
 
 Where X = 0.1 the possible inputs for a 1 USD input are.
 
