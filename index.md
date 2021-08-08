@@ -1,7 +1,7 @@
 ### Why Albanese Conceded on Tax Policy
 The Labor Party in late July, reasonably quietly decided to support the stage 3 tax cuts of the Personal Income Tax Plan announced by the Coalition in 2018, along with removing other tax policies it brought to the last election from its agenda. This post will explain using the game theory of a zero sum game why Albanese and the Shadow Cabinet were drawn to make this decision.
 
-!Game Theory Tax Policy (/Images/IMG_2282.jpg)
+!Game Theory Tax Policy (./Images/IMG_2282.jpg)
 
 Let us start with Scenario B, the "Bill Shorten" Strategy, Labor and Albanese, you can imagine would be unwilling to take the same strategy to the next election. This strategy would allow Scott Morrison to pivot focus away from his inability to tackle the Coronavirus pandemic effectively, and wedge Labor as the party against ambition. Albanese has a two fold response to this. Firstly that the Liberal Party are being improper economic managers, they have spent incorrectly during the pandemic and enacting stage 3 of the tax cuts will widen our fiscal deficits into the future. Secondly, that the tax cuts are regressive. Neither of these will play well, Australian's for better or for worse like tax cuts and the Liberal Parties brand as the more responsible fiscal manager appears to be still be impenetrable, even in the stark light of the sports rorts and carpark scandals. The Liberal Party could pitch this as a tax increase and play on fertile ground for itself.
 
